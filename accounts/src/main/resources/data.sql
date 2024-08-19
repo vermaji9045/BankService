@@ -12,5 +12,7 @@ CREATE TABLE `accounts` (
    `account_number` int AUTO_INCREMENT  PRIMARY KEY,
   `account_type` varchar(100) NOT NULL,
   `branch_address` varchar(200) NOT NULL,
+  `communication-sw` BOOLEAN,
   `create_dt` date DEFAULT NULL
+
 );

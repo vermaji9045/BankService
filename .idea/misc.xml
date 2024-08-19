@@ -5,9 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/card/pom.xml" />
-        <option value="$PROJECT_DIR$/Loans/pom.xml" />
-        <option value="$PROJECT_DIR$/accounts/pom.xml" />
         <option value="$PROJECT_DIR$/configserver/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Message/Message/pom.xml" />
+        <option value="$PROJECT_DIR$/accounts/pom.xml" />
         <option value="$PROJECT_DIR$/eurekaserver/eurekaserver/pom.xml" />
         <option value="$PROJECT_DIR$/gatewayserver/gatewayserver/pom.xml" />
       </list>
