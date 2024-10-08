@@ -1,0 +1,27 @@
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+deploymentName: loans-deployment
+serviceName: loans
+appLabel: loans
+appName: loans
+
+replicaCount: 1
+
+image:
+  repository: vermaji9045/loans
+  tag: s14
+
+containerPort: 8060
+
+service:
+  type: ClusterIP
+  port: 8060
+  targetPort: 8060
+
+appname_enabled: true
+profile_enabled: true
+config_enabled: true
+eureka_enabled: true
+resouceserver_enabled: false
+kafka_enabled: false

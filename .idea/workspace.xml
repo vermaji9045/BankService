@@ -5,26 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ff30e9-eecc-4688-9e1f-2c78f4e77402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Bank+Event Driven.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Bank+ API Getway Integration.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Loans/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Loans/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loans/target/test-classes/com/eazybytes/loans/LoansApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Loans/target/test-classes/com/eazybytes/loans/LoansApplicationTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/src/main/java/com/example/Entity/Accounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/java/com/example/Entity/Accounts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/src/main/java/com/example/service/IAccountsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/java/com/example/service/IAccountsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/src/main/java/com/example/service/imple/AccountsServiceImple.java" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/java/com/example/service/imple/AccountsServiceImple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loans/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/Loans/target/jib-image.digest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loans/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/Loans/target/jib-image.id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loans/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/Loans/target/jib-image.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loans/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Loans/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/card" beforeDir="false" afterPath="$PROJECT_DIR$/card" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/card/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/card/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configserver/configserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/configserver/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose-file/Prod/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose-file/Prod/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eurekaserver/eurekaserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaserver/eurekaserver/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatewayserver/gatewayserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gatewayserver/gatewayserver/pom.xml" afterDir="false" />
     </list>
@@ -65,10 +54,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Bank+Event Driven Kafka",
+    "last_opened_file_path": "E:/Banking Microservices",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>

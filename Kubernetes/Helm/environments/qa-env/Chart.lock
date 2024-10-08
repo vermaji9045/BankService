@@ -1,0 +1,27 @@
+dependencies:
+- name: publicbank-common
+  repository: file://../../publicbank-common
+  version: 0.1.0
+- name: configserver
+  repository: file://../../publicbank-services/configserver
+  version: 0.1.0
+- name: eurekaserver
+  repository: file://../../publicbank-services/eurekaserver
+  version: 0.1.0
+- name: accounts
+  repository: file://../../publicbank-services/accounts
+  version: 0.1.0
+- name: cards
+  repository: file://../../publicbank-services/cards
+  version: 0.1.0
+- name: loans
+  repository: file://../../publicbank-services/loans
+  version: 0.1.0
+- name: gatewayserver
+  repository: file://../../publicbank-services/gatewayserver
+  version: 0.1.0
+- name: message
+  repository: file://../../publicbank-services/message
+  version: 0.1.0
+digest: sha256:89c3892eaf19f5a6e2a081a044464d3639461bf1a42b48b024a79b54efeecdef
+generated: "2024-09-02T12:18:05.4853839+05:30"

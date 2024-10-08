@@ -1,0 +1,6 @@
+dependencies:
+- name: publicbank-common
+  repository: file://../../publicbank-common
+  version: 0.1.0
+digest: sha256:3bf68f1381ab3dec24fa926888910809cb5bd8a1f95faba175be2216e2b7ec7c
+generated: "2024-09-01T14:24:21.5811926+05:30"
