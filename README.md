@@ -26,7 +26,7 @@ Prerequisites
 Setup and Installation
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone 
     cd yourrepository
 
 2. Build the microservices:
